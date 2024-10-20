@@ -11,3 +11,10 @@ Safe Hide is a secure Java-based application that allows users to hide files or 
 - **Cross-Platform Compatibility**: Runs on Windows, macOS, and Linux with Java support.
 - **Intuitive Interface**: User-friendly UI for seamless interaction.
 
+## Welcome Page
+![Screenshot 2024-10-21 021606](https://github.com/user-attachments/assets/7d516a39-ae3b-40cc-b9df-d49bc4b7a067)
+
+
+## User Page
+![Screenshot 2024-10-21 021748](https://github.com/user-attachments/assets/752fe270-c09d-458e-8397-cc17ea23cf4e)
+
